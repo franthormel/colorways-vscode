@@ -57,8 +57,6 @@
     "tab.inactiveBackground": "#FFFFFF",
     "tab.inactiveForeground": "#333333B0",
     "tab.unfocusedInactiveBackground": "#FFFFFF",
-
-    // NEXT
     "terminal.ansiBlack": "#414141",
     "terminal.ansiBlue": "#005cc5",
     "terminal.ansiBrightBlack": "#989898",
@@ -75,7 +73,6 @@
     "terminal.ansiRed": "#d73a49",
     "terminal.ansiWhite": "#bfbfbf",
     "terminal.ansiYellow": "#f7c400",
-
     "terminal.background": "#FFFFFF",
     "terminal.foreground": "#333333",
     "terminalCursor.foreground": "#333333",
