@@ -1,0 +1,21 @@
+{
+    "name": "cheers-balanced",
+    "displayName": "cheers-balanced",
+    "description": "Visual Studio Code Theme inspired by Firefox Colorways Cheers (Balanced) theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Colorways - Cheers (Balanced)",
+                "uiTheme": "vs",
+                "path": "./themes/cheers-balanced-color-theme.json"
+            }
+        ]
+    }
+}
