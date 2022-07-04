@@ -2,8 +2,8 @@
 A Visual Studio Code Theme inspired by Firefox Colorways.
 
 
-| Theme name (style) | Status |
+| Theme name (style)| Status               |
 |-------------------|----------------------|
-| Cheers (Balanced) | Under construction 🔨 |
-| Cheers (Bold)     | Future work          |
+| Cheers (Balanced) | Available            |
+| Cheers (Bold)     | Under construction   |
 | Cheers (Soft)     | Future work          |
