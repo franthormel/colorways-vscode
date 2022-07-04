@@ -1,4 +1,4 @@
-# Colorways VS Code
+# [Colorways VS Code](https://marketplace.visualstudio.com/items?itemName=Franthormel.colorways)
 A Visual Studio Code Theme inspired by Firefox Colorways.
 
 ## Screenshots
