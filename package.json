@@ -1,6 +1,6 @@
 {
     "name": "colorways",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "Franthormel",
     "engines": {
         "vscode": "^1.68.0"
@@ -30,11 +30,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/franthormel/colorways-vscode-theme"
+        "url": "https://github.com/franthormel/colorways-vscode"
     },
-    "homepage": "https://github.com/franthormel/colorways-vscode-theme",
+    "homepage": "https://github.com/franthormel/colorways-vscode",
     "bugs": {
-        "url": "https://github.com/franthormel/colorways-vscode-theme/issues/new?template=bug_report.md&title=[BUG]"
+        "url": "https://github.com/franthormel/colorways-vscode/issues/new?template=bug_report.md&title=[BUG]"
     },
     "contributes": {
         "themes": [
