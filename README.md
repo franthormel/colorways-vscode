@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "cheers-balanced"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Colorways VS Code
+A Visual Studio Code Theme inspired by Firefox Colorways.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+| Theme name (style) | Status |
+|-------------------|----------------------|
+| Cheers (Balanced) | Under construction 🔨 |
+| Cheers (Bold)     | Future work          |
+| Cheers (Soft)     | Future work          |

@@ -1,7 +1,7 @@
 {
     "name": "colorways",
     "displayName": "Colorways Themes",
-    "description": "A Visual Studio Code Theme inspired by Firefox Colorways",
+    "description": "A Visual Studio Code Theme inspired by Firefox Colorways.",
     "version": "0.0.1",
     "author": {
         "name": "Francis Anthony Carmel",
