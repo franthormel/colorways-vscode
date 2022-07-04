@@ -1,27 +1,13 @@
 {
     "name": "colorways",
-    "displayName": "Colorways Themes",
-    "description": "A Visual Studio Code Theme inspired by Firefox Colorways.",
-    "version": "0.0.1",
-    "author": {
-        "name": "Francis Anthony Carmel",
-        "email": "fcaboyo@gmail.com",
-        "url": "https://franthormel.github.io"
-    },
+    "version": "0.1.1",
     "publisher": "Franthormel",
-    "license": "MIT",
-    "icon": "images/icon.png",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/franthormel/colorways-vscode-theme"
-    },
-    "homepage": "https://github.com/franthormel/colorways-vscode-theme",
-    "bugs": {
-        "url": "https://github.com/franthormel/colorways-vscode-theme/issues/new?template=bug_report.md&title=[BUG]"
-    },
     "engines": {
         "vscode": "^1.68.0"
     },
+    "license": "SEE LICENSE IN LICENSE.md",
+    "displayName": "Colorways Themes",
+    "description": "A Visual Studio Code Theme inspired by Firefox Colorways.",
     "categories": [
         "Themes"
     ],
@@ -32,6 +18,24 @@
         "Balanced",
         "Colorways"
     ],
+    "author": {
+        "name": "Francis Anthony Carmel",
+        "email": "fcaboyo@gmail.com",
+        "url": "https://franthormel.github.io"
+    },
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#FEECC3",
+        "theme": "light"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/franthormel/colorways-vscode-theme"
+    },
+    "homepage": "https://github.com/franthormel/colorways-vscode-theme",
+    "bugs": {
+        "url": "https://github.com/franthormel/colorways-vscode-theme/issues/new?template=bug_report.md&title=[BUG]"
+    },
     "contributes": {
         "themes": [
             {
