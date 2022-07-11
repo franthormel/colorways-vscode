@@ -1,6 +1,6 @@
 {
     "name": "colorways",
-    "version": "0.1.2",
+    "version": "0.1.4",
     "publisher": "Franthormel",
     "engines": {
         "vscode": "^1.68.0"
