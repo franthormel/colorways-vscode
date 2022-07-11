@@ -7,11 +7,11 @@ A Visual Studio Code Theme inspired by Firefox Colorways.
 
 
 ## Availability
-| Theme name (style) | Status                                                                                 |
-| ------------------ | -------------------------------------------------------------------------------------- |
-| Cheers (Balanced)  | [Available](https://marketplace.visualstudio.com/items?itemName=Franthormel.colorways) |
-| Cheers (Bold)      | Under construction                                                                     |
-| Cheers (Soft)      | Future work                                                                            |
+| Theme name (style) | Status                                                                       |
+| ------------------ | ---------------------------------------------------------------------------- |
+| Cheers (Balanced)  | Available                                                                    |
+| Cheers (Bold)      | [Under construction](https://github.com/franthormel/colorways-vscode/pull/5) |
+| Cheers (Soft)      | [Future work](https://github.com/franthormel/colorways-vscode/issues/4)      |
 
 ## Packaging and publishing
 1. Install vsce.
