@@ -8,15 +8,11 @@
     "activityBarBadge.foreground": "#FBC94F",
     "editor.background": "#303030",
     "editor.foreground": "#FBC94F",
-    "editor.lineHighlightBackground": "#3D3D3D",
-
-    // TODO
-    "editor.findMatchBackground": "#d4ff00",
-    "editor.findMatchBorder": "#ff0000",
-    "editor.findMatchHighlightBackground": "#ea5c0055",
-    "editor.findMatchHighlightBorder": null,
-    "editor.findRangeHighlightBackground": "#b4b4b44d",
-    "editor.findRangeHighlightBorder": null,
+    "editor.lineHighlightBackground": "#404040",
+    "editor.findMatchBackground": "#FBC94F80",
+    "editor.findMatchHighlightBackground": "#FBC94F80",
+    "editor.findRangeHighlightBackground": "#404040",
+    
     "editor.focusedStackFrameHighlightBackground": "#cee7ce73",
     "editor.foldBackground": "#add6ff4d",
     "editor.hoverHighlightBackground": "#add6ff26",
@@ -28,7 +24,7 @@
     "editor.rangeHighlightBorder": null,
 
     // DONE
-    "editor.selectionBackground": "#FBC94F",
+    "editor.selectionBackground": "#404040",
     "editor.selectionForeground": "#333333",
     "editor.selectionHighlightBackground": "#FBC94F80",
     "editor.selectionHighlightBorder": "#161616",
@@ -215,7 +211,7 @@
     // "editorGutter.background": "#ffffff",
     // "editorGutter.commentRangeForeground": "#c5c5c5",
     // "editorGutter.deletedBackground": "#e51400",
-    // "editorGutter.foldingControlForeground": "#424242",
+    // "editorGutter.foldingControlForeground": "#404040",
     // "editorGutter.modifiedBackground": "#2090d3",
     // "editorHint.foreground": "#6c6c6c",
     // "editorHoverWidget.background": "#f3f3f3",
@@ -327,7 +323,7 @@
     // "gitlens.unpublishedChangesIconColor": "#35b15e",
     // "gitlens.unpublishedCommitIconColor": "#35b15e",
     // "gitlens.unpulledChangesIconColor": "#b15e35",
-    // "icon.foreground": "#424242",
+    // "icon.foreground": "#404040",
     // "input.background": "#ffffff",
     // "input.foreground": "#616161",
     // "input.placeholderForeground": "#61616180",
@@ -414,14 +410,14 @@
     // "notificationsWarningIcon.foreground": "#bf8803",
     // "panel.background": "#ffffff",
     // "panel.border": "#80808059",
-    // "panel.dropBorder": "#424242",
+    // "panel.dropBorder": "#404040",
     // "panelInput.border": "#dddddd",
     // "panelSection.border": "#80808059",
     // "panelSection.dropBackground": "#2677cb2e",
     // "panelSectionHeader.background": "#80808033",
-    // "panelTitle.activeBorder": "#424242",
-    // "panelTitle.activeForeground": "#424242",
-    // "panelTitle.inactiveForeground": "#424242bf",
+    // "panelTitle.activeBorder": "#404040",
+    // "panelTitle.activeForeground": "#404040",
+    // "panelTitle.inactiveForeground": "#404040bf",
     // "peekView.border": "#1a85ff",
     // "peekViewEditor.background": "#f2f8fc",
     // "peekViewEditor.matchHighlightBackground": "#f5d802de",
@@ -676,7 +672,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#AAAAAA"
+        "foreground": "#AAAAAA80"
       }
     },
     {
@@ -684,7 +680,7 @@
       "scope": "comment.block.preprocessor",
       "settings": {
         "fontStyle": "",
-        "foreground": "#AAAAAA"
+        "foreground": "#AAAAAA80"
       }
     },
     {
@@ -821,7 +817,7 @@
         "meta.tag.sgml punctuation.definition.tag.html"
       ],
       "settings": {
-        "foreground": "#AAAAAA"
+        "foreground": "#AAAAAA80"
       }
     },
     {
