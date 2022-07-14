@@ -2,8 +2,11 @@
   "name": "Colorways - Cheers (Bold)",
   "type": "dark",
   "colors": {
+    "activityBar.activeBorder": "#FBC94F",
     "activityBar.background": "#161616",
+    "activityBar.dropBorder": "#FBC94F",
     "activityBar.foreground": "#FBC94F",
+    "activityBar.inactiveForeground": "#FBC94F80",
     "activityBarBadge.background": "#303030",
     "activityBarBadge.foreground": "#FBC94F",
     "editor.background": "#303030",
@@ -74,9 +77,7 @@
     "terminalCursor.foreground": "#363636",
     "titleBar.activeBackground": "#fac038",
     "titleBar.border": "#e1e4e8"
-    // "activityBar.activeBorder": "#fafbfc",
-    // "activityBar.dropBorder": "#fafbfc",
-    // "activityBar.inactiveForeground": "#fafbfc66",
+    
     // "badge.background": "#c4c4c4",
     // "badge.foreground": "#333333",
     // "banner.background": "#004386",
