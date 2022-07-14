@@ -11,6 +11,9 @@
     "activityBarBadge.foreground": "#FBC94F",
     "badge.background": "#404040",
     "badge.foreground": "#FBC94F",
+    "banner.background": "#303030",
+    "banner.foreground": "#FBC94F",
+    "banner.iconForeground": "#FBC94F",
     "editor.background": "#303030",
     "editor.foreground": "#FBC94F",
     "editor.lineHighlightBackground": "#404040",
@@ -81,9 +84,7 @@
     "titleBar.border": "#e1e4e8"
     
     
-    // "banner.background": "#004386",
-    // "banner.foreground": "#ffffff",
-    // "banner.iconForeground": "#1a85ff",
+    
     // "breadcrumb.activeSelectionForeground": "#4e4e4e",
     // "breadcrumb.background": "#ffffff",
     // "breadcrumb.focusForeground": "#4e4e4e",
