@@ -32,7 +32,8 @@
     "commandCenter.background": "#303030",
     "commandCenter.border": "#FBC94F",
     "commandCenter.foreground": "#FBC94F",
-    // "contrastBorder": null,
+    "dart.closingLabels": "#AAAAAA80",
+    "dart.flutterUiGuides": "#FBC94F3D",
     "editor.background": "#303030",
     "editor.foreground": "#FBC94F",
     "editor.lineHighlightBackground": "#16161680",
@@ -53,8 +54,6 @@
     "editorLineNumber.foreground": "#FBC94F3D",
     "editorLineNumber.activeForeground": "#FBC94F",
     "focusBorder": "#FBC94F"
-    // "dart.closingLabels": "#586069",
-    // "dart.flutterUiGuides": "#a3a3a3",
     // "debugConsole.errorForeground": "#a1260d",
     // "debugConsole.infoForeground": "#1a85ff",
     // "debugConsole.sourceForeground": "#616161",
