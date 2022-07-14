@@ -19,6 +19,9 @@
     "breadcrumb.focusForeground": "#FBC94F",
     "breadcrumb.foreground": "#FBC94F80",
     "breadcrumbPicker.background": "#f3f3f3",
+    "button.background": "#161616",
+    "button.foreground": "#FBC94F",
+    "button.hoverBackground": "#303030",
     "editor.background": "#303030",
     "editor.foreground": "#FBC94F",
     "editor.lineHighlightBackground": "#404040",
@@ -90,13 +93,6 @@
     
     
     
-    
-    // "button.background": "#007acc",
-    // "button.foreground": "#ffffff",
-    // "button.hoverBackground": "#0062a3",
-    // "button.secondaryBackground": "#5f6a79",
-    // "button.secondaryForeground": "#ffffff",
-    // "button.secondaryHoverBackground": "#4c5561",
     // "charts.blue": "#1a85ff",
     // "charts.foreground": "#616161",
     // "charts.green": "#388a34",
