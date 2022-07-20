@@ -39,6 +39,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "Colorways - Cheers (Bold)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cheers/bold-color-theme.json"
+            },
+            {
                 "label": "Colorways - Cheers (Balanced)",
                 "uiTheme": "vs",
                 "path": "./themes/cheers/balanced-color-theme.json"
