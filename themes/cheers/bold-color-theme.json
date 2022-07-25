@@ -32,15 +32,15 @@
     "commandCenter.background": "#161616",
     "commandCenter.border": "#FBC94F",
     "commandCenter.foreground": "#FBC94F",
-    "dart.closingLabels": "#AAAAAA80",
+    "dart.closingLabels": "#C2C2C280",
     "dart.flutterUiGuides": "#FBC94F3D",
-    "disabledForeground": "#AAAAAA80",
+    "disabledForeground": "#C2C2C280",
     "dropdown.background": "#161616",
     "dropdown.border": "#FBC94F",
     "dropdown.foreground": "#FBC94F",
     "dropdown.listBackground": "#161616",
     "editor.background": "#303030",
-    "editor.foreground": "#FCD573",
+    "editor.foreground": "#FBC94F",
     "editor.lineHighlightBackground": "#16161680",
     "editor.findMatchBackground": "#16161680",
     "editor.findMatchHighlightBackground": "#16161680",
@@ -84,12 +84,9 @@
     "extensionBadge.remoteForeground": "#FBC94F",
     "extensionIcon.starForeground": "#FBC94F",
     "focusBorder": "#FBC94F",
-    "foreground": "#FBC94F",
+    "foreground": "#C2C2C2",
     "icon.foreground": "#FBC94F",
-    // "input.background": "#ffffff",
-    // "input.border": null,
-    // "input.foreground": "#616161",
-    // "input.placeholderForeground": "#61616180",
+    "input.foreground": "#C2C2C2",
     // "inputOption.activeBackground": "#fafbfc33",
     // "inputOption.activeBorder": "#e36209",
     // "inputOption.activeForeground": "#000000",
@@ -441,7 +438,7 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#AAAAAA80"
+        "foreground": "#C2C2C280"
       }
     },
     {
@@ -449,7 +446,7 @@
       "scope": "comment.block.preprocessor",
       "settings": {
         "fontStyle": "",
-        "foreground": "#AAAAAA80"
+        "foreground": "#C2C2C280"
       }
     },
     {
@@ -586,7 +583,7 @@
         "meta.tag.sgml punctuation.definition.tag.html"
       ],
       "settings": {
-        "foreground": "#AAAAAA80"
+        "foreground": "#C2C2C280"
       }
     },
     {
