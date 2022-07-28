@@ -103,10 +103,8 @@
     "list.focusBackground": "#161616",
     "list.focusOutline": "#FBC94F",
     "list.hoverBackground": "#161616",
-    "list.inactiveSelectionBackground": "#303030"
-    // "listFilterWidget.background": "#efc1ad",
-    // "listFilterWidget.noMatchesOutline": "#be1100",
-    // "listFilterWidget.outline": "#00000000",
+    "list.inactiveSelectionBackground": "#303030",
+    "listFilterWidget.background": "#161616",
     // "menu.background": "#ffffff",
     // "menu.border": null,
     // "menu.foreground": "#616161",
