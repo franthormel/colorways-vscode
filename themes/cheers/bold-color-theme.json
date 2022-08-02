@@ -196,9 +196,9 @@
     "welcomePage.progress.foreground": "#FBC94F",
     "welcomePage.tileBackground": "#161616",
     "welcomePage.tileHoverBackground": "#16161680",
-    // "widget.shadow": "#00000029",
-    // "window.activeBorder": null,
-    // "window.inactiveBorder": null
+    "widget.shadow": "#16161680",
+    "window.activeBorder": "#FBC94F",
+    "window.inactiveBorder": "#FBC94F"
   },
   "tokenColors": [
     {
