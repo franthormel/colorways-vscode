@@ -3,15 +3,20 @@ A Visual Studio Code Theme inspired by Firefox Colorways.
 
 ## Screenshots
 
+### 🍻 Cheers
 ![Cheers (Balanced)](images/preview/cheers-balanced.png)
+Balanced 
+
+![Cheers (Bold)](images/preview/cheers-bold.png)
+Bold
 
 
 ## Availability
-| Theme name (style) | Status                                                                       |
-| ------------------ | ---------------------------------------------------------------------------- |
-| Cheers (Balanced)  | Available                                                                    |
-| Cheers (Bold)      | [Under construction](https://github.com/franthormel/colorways-vscode/pull/5) |
-| Cheers (Soft)      | [Future work](https://github.com/franthormel/colorways-vscode/issues/4)      |
+| Theme name (style) | Status                                                                  |
+| ------------------ | ----------------------------------------------------------------------- |
+| Cheers (Balanced)  | Available                                                               |
+| Cheers (Bold)      | Available                                                               |
+| Cheers (Soft)      | [Future work](https://github.com/franthormel/colorways-vscode/issues/4) |
 
 ## Packaging and publishing
 1. Install vsce.

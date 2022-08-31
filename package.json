@@ -1,6 +1,6 @@
 {
     "name": "colorways",
-    "version": "0.1.5",
+    "version": "0.2.0",
     "publisher": "Franthormel",
     "engines": {
         "vscode": "^1.68.0"
@@ -16,6 +16,7 @@
         "Light",
         "Dark",
         "Balanced",
+        "Bold",
         "Colorways"
     ],
     "author": {
@@ -42,6 +43,11 @@
                 "label": "Colorways - Cheers (Balanced)",
                 "uiTheme": "vs",
                 "path": "./themes/cheers/balanced-color-theme.json"
+            },
+            {
+                "label": "Colorways - Cheers (Bold)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/cheers/bold-color-theme.json"
             }
         ]
     },
